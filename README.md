@@ -1,5 +1,10 @@
 # Compare-Syntax
+
+Url: https://yusuf-ibrahim-malik-dev.github.io/Compare-Syntax/
+
 Berbagai macam bahasa pemrograman bisa di compare
+
+# Versi: Desktop
 
 Password: 123
 
