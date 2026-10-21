@@ -1,13 +1,12 @@
-COMPARE SYNTAX - ASP.NET Web Forms / .NET Framework 4.8
+﻿COMPARE SYNTAX - ASP.NET WEB FORMS / .NET FRAMEWORK 4.8
 
-Cara menjalankan:
-1. Extract folder ini.
-2. Buka CompareSyntax.sln dengan Visual Studio 2022.
-3. Pastikan workload ASP.NET and web development serta .NET Framework 4.8 Developer Pack terpasang.
-4. Klik kanan project CompareSyntax > Set as Startup Project.
-5. Jalankan (F5). Halaman utama adalah Compare.aspx.
+1. Extract ZIP.
+2. Open CompareSyntax.sln in Visual Studio 2022.
+3. Install the ASP.NET and web development workload and .NET Framework 4.8 Developer Pack.
+4. Set CompareSyntax as Startup Project and press F5.
 
-Catatan:
-- UI/editor/diff masih berjalan di browser menggunakan asset lokal yang disertakan.
-- Konversi ini mempertahankan fitur JavaScript asal; code-behind disediakan sebagai titik masuk untuk pengembangan server-side berikutnya.
-- Tidak membutuhkan CDN/internet untuk library yang sudah dibundel.
+Default.aspx is converted from the original index.html. The local Monaco Editor,
+diff engines, beautifiers, CSS, fonts and other assets are retained. Editor and
+comparison logic remain client-side JavaScript, preserving the original behavior.
+The project is configured for IIS Express on localhost:5000. Build/runtime should
+be verified in Visual Studio on Windows.
