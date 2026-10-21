@@ -1,6 +1,6 @@
 # Compare-Syntax
 
-Url: https://yusuf-ibrahim-malik-dev.github.io/Compare-Syntax/
+Url: https://yusuf-ibrahim-malik-dev.github.io/Compare-Syntax/publish/
 
 Berbagai macam bahasa pemrograman bisa di compare
 
