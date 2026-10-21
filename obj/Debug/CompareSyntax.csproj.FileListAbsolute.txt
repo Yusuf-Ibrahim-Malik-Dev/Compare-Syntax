@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\bin\CompareSyntax.dll.config
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\bin\CompareSyntax.dll
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\bin\CompareSyntax.pdb
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.dll
+C:\Users\Admin\Desktop\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.pdb
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\bin\CompareSyntax.dll.config
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\bin\CompareSyntax.dll
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\bin\CompareSyntax.pdb
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.csproj.AssemblyReference.cache
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.csproj.CoreCompileInputs.cache
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.dll
+F:\Root-ID-1994 Github\Git Master\Dev ASPX\CompareSyntax_ASPX_NET48\obj\Debug\CompareSyntax.pdb
